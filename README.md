@@ -1,5 +1,11 @@
-# Convolutional Autoencoder for Image Denoising
+### EXP NO: 07
+
+### Date:14.11.2022
+
+# <p align = "center"> Convolutional Autoencoder for Image Denoising </p>
+
 ## AIM
+
 To develop a convolutional autoencoder for image denoising application.
 
 ## Problem Statement and Dataset
